@@ -9,8 +9,9 @@ Hello World in ASCII art.
 Steps to build and/or run the software:
 
 1. Clone the repository
-2. run `py HelloWorld.py` in correct path
-3. Enjoy Ascii art Hello World
+2. Install Python 3.14.0
+3. run `py HelloWorld.py` in correct path
+4. Enjoy Ascii art Hello World
 
 Instructions for using the software:
 
