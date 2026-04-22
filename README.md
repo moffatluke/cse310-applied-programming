@@ -2,7 +2,6 @@
 
 Hello World in ASCII art.
 
-![HelloWorld.gif](./assets/HelloWorld.gif)
 
 [Video Demo Here](https://youtu.be/o8H4Goj9weg)
 ## Instructions for Build and Use
